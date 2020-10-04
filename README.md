@@ -9,4 +9,4 @@ Since I did not want to risk having such little security in my personal gmail, I
 This is my first real python project, I am very excited to publish it and for all of you to enjoy.
 I developed this app to solve an actual problem I was having and I am more than glad I did, it ended up being a bit of a challenge, making it a joy to make.
 Greeting and enjoy My_Booklet
-- Santiago Reyes
+--- Santiago Reyes
