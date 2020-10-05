@@ -68,7 +68,7 @@ root.iconbitmap('icon.ico')
 
 
 def zoom_login(meeting_id):
-    os.startfile("C:/Users/user/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Zoom/Start Zoom")
+    os.startfile("C:/Users/user/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Zoom/Start Zoom") #Your zoom directory here, with oct 25, 2020 update, my new route is C:/Users/user/Desktop/Zoom
     time.sleep(12)
     joinbtn=pyautogui.locateCenterOnScreen("zoom_join.png")
     pyautogui.moveTo(joinbtn)
